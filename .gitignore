@@ -1,0 +1,12 @@
+.idea/
+*.iml
+*.iws
+*.ipr
+*.jar
+
+Thumbs.db
+
+*.class
+
+target/
+
